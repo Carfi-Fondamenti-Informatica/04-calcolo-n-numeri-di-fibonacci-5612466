@@ -12,6 +12,8 @@ int main() {
       a=b;
       b=c;
       cout << c << endl;
+      }
+   }
    else {
       cout << "errore" << endl; 
    }
